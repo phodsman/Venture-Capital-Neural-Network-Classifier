@@ -31,4 +31,4 @@ MIT
 
 # Report
 
-[](Screenshot 2021-12-16 103653.png)
+[](https://github.com/phodsman/Venture-Capital-Neural-Network-Classifier/blob/main/Screenshot%202021-12-16%20103653.png?raw=true)
